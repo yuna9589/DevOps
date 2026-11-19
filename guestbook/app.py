@@ -132,3 +132,4 @@ def readyz():
 
 if __name__ == "__main__":
     print(f"[INFO] {APP_TITLE} 시작 — http://0.0.0.0:{PORT}", flush=True)
+def broken2(:
